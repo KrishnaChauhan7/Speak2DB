@@ -9,7 +9,7 @@ import pandas as pd
 import plotly.express as px
 import google.generativeai as genai
 import speech_recognition as sr  # For speech-to-text conversion
-import pyttsx3  # For text-to-speech conversion
+# import pyttsx3  # For text-to-speech conversion
 
 # Configure the API key
 try:
