@@ -2,8 +2,6 @@
 
 🎯 **Speak2DB** lets you ask questions in plain English or voice and get real-time SQL results from an SQLite database — powered by **Google Gemini API** and displayed through a **Streamlit interface**.
 
-🔗 **Live App:** [Try Speak2DB](https://speak2db-qn4mcrz3mzmpxduhsi5qdr.streamlit.app/)
-
 ---
 
 ## ⚙️ Tech Stack
